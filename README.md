@@ -33,7 +33,7 @@ This seamless integration enhances the overall security management workflow, mak
 
 <!DOCTYPE html>
 <video width="320" height="240" controls>
-  <source src="https://youtu.be/DzykFzboPx8" type="video/mp4">
+  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/DzykFzboPx8?si=NiFW_MstunkzoE1k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </video>
 
