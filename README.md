@@ -1,7 +1,7 @@
-#Video Processing Service (VPS) for Real-Time Video Analytics
-##Project Overview
+# Video Processing Service (VPS) for Real-Time Video Analytics
+## Project Overview
 > This project involves the development of a Video Processing Service (VPS) integrated with Milestone XProtect VMS for real-time video stream analysis. The VPS is capable of detecting objects such as people, vehicles, and faces using advanced AI models optimized with OpenVINO and DL Streamer. The goal is to enhance the security capabilities of the PGuard robot by enabling real-time video analytics and providing metadata to the VMS.
-##Key Features
+## Key Features
 * Real-Time Object Detection: Integration of object detection models (people, vehicles, faces) using OpenVINO and DL Streamer for real-time video processing.
 * WebSocket Communication: Established communication between the VPS and the Milestone XProtect VMS via WebSocket for real-time data exchange.
 * Docker Integration: The VPS is deployed using a Docker container to ensure flexibility, scalability, and seamless integration into various environments.
